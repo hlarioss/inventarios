@@ -1,0 +1,87 @@
+.three-columns {
+	width: 33%;
+}
+.title-line-height {
+	line-height: 39px;
+}
+
+.error {
+	color: red;
+}
+
+
+table.dataTable.display tbody tr.odd.selected {
+    background-color: #acbad4;
+}
+
+
+.nav > li:hover {
+    background-color: #eff3ed;
+}
+
+.container-custom {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.btn-success:hover, .btn-success:focus, .btn-success.focus, .btn-success:active, .btn-success.active, .open>.dropdown-toggle.btn-success {
+    color: #fff;
+    background-color: #315fb3;
+    border-color: #315fb3;
+}
+
+
+div.dataTables_wrapper div.dataTables_info {
+    padding-top: 8px;
+    white-space: pre-wrap;
+}
+
+.nav-second-level > li:hover {
+	background-color: #F0433D;
+}
+
+.tittle-custom {
+	color: #13813e;
+	font-weight: bold;
+}
+
+.navbar-default {
+    background-color: #b33a3a;
+    border-color: #b33a3a;
+}
+
+.navbar-default .navbar-brand {
+    color: #fbf3f3;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+
+
+.navbar-header {
+    background: #b53835;
+    color: white;
+}
+
+.resalt {
+	color: blue;
+}
+
+.form-group.required .col-md-4 .control-label:after { 
+	content:"*";
+	color:red;
+	position: absolute;
+	margin-left: 8px;
+	top:7px;
+}
+
+hr {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: 0;
+	border-top: 3px solid #170f93;
+}
